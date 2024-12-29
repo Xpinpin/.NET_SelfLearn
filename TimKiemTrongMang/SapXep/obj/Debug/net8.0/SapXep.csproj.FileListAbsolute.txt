@@ -1,0 +1,15 @@
+D:\SelfLearn\.NET_SelfLearn\TimKiemTrongMang\SapXep\bin\Debug\net8.0\SapXep.exe
+D:\SelfLearn\.NET_SelfLearn\TimKiemTrongMang\SapXep\bin\Debug\net8.0\SapXep.deps.json
+D:\SelfLearn\.NET_SelfLearn\TimKiemTrongMang\SapXep\bin\Debug\net8.0\SapXep.runtimeconfig.json
+D:\SelfLearn\.NET_SelfLearn\TimKiemTrongMang\SapXep\bin\Debug\net8.0\SapXep.dll
+D:\SelfLearn\.NET_SelfLearn\TimKiemTrongMang\SapXep\bin\Debug\net8.0\SapXep.pdb
+D:\SelfLearn\.NET_SelfLearn\TimKiemTrongMang\SapXep\obj\Debug\net8.0\SapXep.GeneratedMSBuildEditorConfig.editorconfig
+D:\SelfLearn\.NET_SelfLearn\TimKiemTrongMang\SapXep\obj\Debug\net8.0\SapXep.AssemblyInfoInputs.cache
+D:\SelfLearn\.NET_SelfLearn\TimKiemTrongMang\SapXep\obj\Debug\net8.0\SapXep.AssemblyInfo.cs
+D:\SelfLearn\.NET_SelfLearn\TimKiemTrongMang\SapXep\obj\Debug\net8.0\SapXep.csproj.CoreCompileInputs.cache
+D:\SelfLearn\.NET_SelfLearn\TimKiemTrongMang\SapXep\obj\Debug\net8.0\SapXep.sourcelink.json
+D:\SelfLearn\.NET_SelfLearn\TimKiemTrongMang\SapXep\obj\Debug\net8.0\SapXep.dll
+D:\SelfLearn\.NET_SelfLearn\TimKiemTrongMang\SapXep\obj\Debug\net8.0\refint\SapXep.dll
+D:\SelfLearn\.NET_SelfLearn\TimKiemTrongMang\SapXep\obj\Debug\net8.0\SapXep.pdb
+D:\SelfLearn\.NET_SelfLearn\TimKiemTrongMang\SapXep\obj\Debug\net8.0\SapXep.genruntimeconfig.cache
+D:\SelfLearn\.NET_SelfLearn\TimKiemTrongMang\SapXep\obj\Debug\net8.0\ref\SapXep.dll

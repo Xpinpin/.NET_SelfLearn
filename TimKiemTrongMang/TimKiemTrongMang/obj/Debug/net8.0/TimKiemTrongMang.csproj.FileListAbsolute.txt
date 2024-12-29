@@ -1,0 +1,15 @@
+D:\SelfLearn\.NET_SelfLearn\TimKiemTrongMang\TimKiemTrongMang\bin\Debug\net8.0\TimKiemTrongMang.exe
+D:\SelfLearn\.NET_SelfLearn\TimKiemTrongMang\TimKiemTrongMang\bin\Debug\net8.0\TimKiemTrongMang.deps.json
+D:\SelfLearn\.NET_SelfLearn\TimKiemTrongMang\TimKiemTrongMang\bin\Debug\net8.0\TimKiemTrongMang.runtimeconfig.json
+D:\SelfLearn\.NET_SelfLearn\TimKiemTrongMang\TimKiemTrongMang\bin\Debug\net8.0\TimKiemTrongMang.dll
+D:\SelfLearn\.NET_SelfLearn\TimKiemTrongMang\TimKiemTrongMang\bin\Debug\net8.0\TimKiemTrongMang.pdb
+D:\SelfLearn\.NET_SelfLearn\TimKiemTrongMang\TimKiemTrongMang\obj\Debug\net8.0\TimKiemTrongMang.GeneratedMSBuildEditorConfig.editorconfig
+D:\SelfLearn\.NET_SelfLearn\TimKiemTrongMang\TimKiemTrongMang\obj\Debug\net8.0\TimKiemTrongMang.AssemblyInfoInputs.cache
+D:\SelfLearn\.NET_SelfLearn\TimKiemTrongMang\TimKiemTrongMang\obj\Debug\net8.0\TimKiemTrongMang.AssemblyInfo.cs
+D:\SelfLearn\.NET_SelfLearn\TimKiemTrongMang\TimKiemTrongMang\obj\Debug\net8.0\TimKiemTrongMang.csproj.CoreCompileInputs.cache
+D:\SelfLearn\.NET_SelfLearn\TimKiemTrongMang\TimKiemTrongMang\obj\Debug\net8.0\TimKiemTrongMang.sourcelink.json
+D:\SelfLearn\.NET_SelfLearn\TimKiemTrongMang\TimKiemTrongMang\obj\Debug\net8.0\TimKiemTrongMang.dll
+D:\SelfLearn\.NET_SelfLearn\TimKiemTrongMang\TimKiemTrongMang\obj\Debug\net8.0\refint\TimKiemTrongMang.dll
+D:\SelfLearn\.NET_SelfLearn\TimKiemTrongMang\TimKiemTrongMang\obj\Debug\net8.0\TimKiemTrongMang.pdb
+D:\SelfLearn\.NET_SelfLearn\TimKiemTrongMang\TimKiemTrongMang\obj\Debug\net8.0\TimKiemTrongMang.genruntimeconfig.cache
+D:\SelfLearn\.NET_SelfLearn\TimKiemTrongMang\TimKiemTrongMang\obj\Debug\net8.0\ref\TimKiemTrongMang.dll
